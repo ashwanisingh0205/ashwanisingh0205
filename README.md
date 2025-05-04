@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | Student | Code Enthusiast</h3>
 
 <p align="center">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.0RCaWp2Zmy4ve0JDzPofKAHaE8&pid=Api&P=0&h=180" alt="Ashwani Singh" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+
 
 - 🌱 I’m currently learning **Next.js & React Native**
 - 🔭 I’m currently working on:
